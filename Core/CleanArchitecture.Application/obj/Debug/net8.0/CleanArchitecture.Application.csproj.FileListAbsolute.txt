@@ -1,0 +1,15 @@
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Core/CleanArchitecture.Application/bin/Debug/net8.0/CleanArchitecture.Application.deps.json
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Core/CleanArchitecture.Application/bin/Debug/net8.0/CleanArchitecture.Application.dll
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Core/CleanArchitecture.Application/bin/Debug/net8.0/CleanArchitecture.Application.pdb
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Core/CleanArchitecture.Application/obj/Debug/net8.0/CleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Core/CleanArchitecture.Application/obj/Debug/net8.0/CleanArchitecture.Application.AssemblyInfoInputs.cache
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Core/CleanArchitecture.Application/obj/Debug/net8.0/CleanArchitecture.Application.AssemblyInfo.cs
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Core/CleanArchitecture.Application/obj/Debug/net8.0/CleanArchitecture.Application.csproj.CoreCompileInputs.cache
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Core/CleanArchitecture.Application/obj/Debug/net8.0/CleanArchitecture.Application.dll
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Core/CleanArchitecture.Application/obj/Debug/net8.0/refint/CleanArchitecture.Application.dll
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Core/CleanArchitecture.Application/obj/Debug/net8.0/CleanArchitecture.Application.pdb
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Core/CleanArchitecture.Application/obj/Debug/net8.0/ref/CleanArchitecture.Application.dll
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Core/CleanArchitecture.Application/bin/Debug/net8.0/CleanArchitecture.Domain.dll
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Core/CleanArchitecture.Application/bin/Debug/net8.0/CleanArchitecture.Domain.pdb
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Core/CleanArchitecture.Application/obj/Debug/net8.0/CleanArchitecture.Application.csproj.AssemblyReference.cache
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Core/CleanArchitecture.Application/obj/Debug/net8.0/CleanArchitecture.Application.csproj.CopyComplete

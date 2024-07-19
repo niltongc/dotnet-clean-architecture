@@ -1,0 +1,11 @@
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Core/CleanArchitecture.Domain/bin/Debug/net8.0/CleanArchitecture.Domain.deps.json
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Core/CleanArchitecture.Domain/bin/Debug/net8.0/CleanArchitecture.Domain.dll
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Core/CleanArchitecture.Domain/bin/Debug/net8.0/CleanArchitecture.Domain.pdb
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Core/CleanArchitecture.Domain/obj/Debug/net8.0/CleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Core/CleanArchitecture.Domain/obj/Debug/net8.0/CleanArchitecture.Domain.AssemblyInfoInputs.cache
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Core/CleanArchitecture.Domain/obj/Debug/net8.0/CleanArchitecture.Domain.AssemblyInfo.cs
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Core/CleanArchitecture.Domain/obj/Debug/net8.0/CleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Core/CleanArchitecture.Domain/obj/Debug/net8.0/CleanArchitecture.Domain.dll
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Core/CleanArchitecture.Domain/obj/Debug/net8.0/refint/CleanArchitecture.Domain.dll
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Core/CleanArchitecture.Domain/obj/Debug/net8.0/CleanArchitecture.Domain.pdb
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Core/CleanArchitecture.Domain/obj/Debug/net8.0/ref/CleanArchitecture.Domain.dll

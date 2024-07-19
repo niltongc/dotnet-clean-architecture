@@ -1,0 +1,17 @@
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Infrastructure/Persistence/obj/Debug/net8.0/Persistence.csproj.AssemblyReference.cache
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Infrastructure/Persistence/obj/Debug/net8.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Infrastructure/Persistence/obj/Debug/net8.0/Persistence.AssemblyInfoInputs.cache
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Infrastructure/Persistence/obj/Debug/net8.0/Persistence.AssemblyInfo.cs
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Infrastructure/Persistence/obj/Debug/net8.0/Persistence.csproj.CoreCompileInputs.cache
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Infrastructure/Persistence/bin/Debug/net8.0/Persistence.deps.json
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Infrastructure/Persistence/bin/Debug/net8.0/Persistence.dll
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Infrastructure/Persistence/bin/Debug/net8.0/Persistence.pdb
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Infrastructure/Persistence/bin/Debug/net8.0/CleanArchitecture.Application.dll
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Infrastructure/Persistence/bin/Debug/net8.0/CleanArchitecture.Domain.dll
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Infrastructure/Persistence/bin/Debug/net8.0/CleanArchitecture.Application.pdb
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Infrastructure/Persistence/bin/Debug/net8.0/CleanArchitecture.Domain.pdb
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Infrastructure/Persistence/obj/Debug/net8.0/Persistence.csproj.CopyComplete
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Infrastructure/Persistence/obj/Debug/net8.0/Persistence.dll
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Infrastructure/Persistence/obj/Debug/net8.0/refint/Persistence.dll
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Infrastructure/Persistence/obj/Debug/net8.0/Persistence.pdb
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Infrastructure/Persistence/obj/Debug/net8.0/ref/Persistence.dll

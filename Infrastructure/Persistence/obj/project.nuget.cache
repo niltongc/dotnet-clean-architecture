@@ -1,9 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "QOTSYp8fdkVdP+NyOZF9/CHfyo10aXy6TMossfXgpOKZlrTk8AenwQGXzzqrQdkbtrHm0XbVmFYWMoEtGCVlqw==",
+  "dgSpecHash": "/TDFzAzXigsFVH3IY11yQtdmVYTYgoU2GMxLZmOrTXtUhkQHUk08+FB76zjz6f6TraLF/nbbfQfuAiiGCjTjvA==",
   "success": true,
   "projectFilePath": "/home/nilton/Documentos/course/internet/dotnet-clean-arch/Infrastructure/Persistence/Persistence.csproj",
   "expectedPackageFiles": [
+    "/home/nilton/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
+    "/home/nilton/.nuget/packages/fluentvalidation/11.9.2/fluentvalidation.11.9.2.nupkg.sha512",
+    "/home/nilton/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.9.2/fluentvalidation.dependencyinjectionextensions.11.9.2.nupkg.sha512",
+    "/home/nilton/.nuget/packages/mediatr/12.3.0/mediatr.12.3.0.nupkg.sha512",
+    "/home/nilton/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/home/nilton/.nuget/packages/microsoft.data.sqlite.core/8.0.7/microsoft.data.sqlite.core.8.0.7.nupkg.sha512",
     "/home/nilton/.nuget/packages/microsoft.entityframeworkcore/8.0.7/microsoft.entityframeworkcore.8.0.7.nupkg.sha512",
     "/home/nilton/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.7/microsoft.entityframeworkcore.abstractions.8.0.7.nupkg.sha512",

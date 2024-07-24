@@ -13,3 +13,4 @@
 /home/nilton/Documentos/course/internet/dotnet-clean-arch/Core/CleanArchitecture.Application/bin/Debug/net8.0/CleanArchitecture.Domain.pdb
 /home/nilton/Documentos/course/internet/dotnet-clean-arch/Core/CleanArchitecture.Application/obj/Debug/net8.0/CleanArchitecture.Application.csproj.AssemblyReference.cache
 /home/nilton/Documentos/course/internet/dotnet-clean-arch/Core/CleanArchitecture.Application/obj/Debug/net8.0/CleanArchitecture.Application.csproj.CopyComplete
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Core/CleanArchitecture.Application/obj/Debug/net8.0/CleanArchitecture.Application.sourcelink.json

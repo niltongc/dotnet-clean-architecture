@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "T9MxxU86x6x1c41RvDy2JxhYuGfbPgGR9WztlyJMqpxFbfeguPwttZ9FwbJFpvR+jmat+IFrah0ad9Dld3lqqA==",
+  "dgSpecHash": "QBKqq/MeTIeeG1r7XyMOxK7AqZOaWO6+71bc8ROyXo7I+Ohgjs83qVq80AmUfrSCisOjtL08iuIdKGXOiFk5oQ==",
   "success": true,
   "projectFilePath": "/home/nilton/Documentos/course/internet/dotnet-clean-arch/Core/CleanArchitecture.Application/CleanArchitecture.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/nilton/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
+    "/home/nilton/.nuget/packages/fluentvalidation/11.9.2/fluentvalidation.11.9.2.nupkg.sha512",
+    "/home/nilton/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.9.2/fluentvalidation.dependencyinjectionextensions.11.9.2.nupkg.sha512",
+    "/home/nilton/.nuget/packages/mediatr/12.3.0/mediatr.12.3.0.nupkg.sha512",
+    "/home/nilton/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/home/nilton/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/home/nilton/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/home/nilton/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/home/nilton/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

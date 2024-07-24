@@ -9,3 +9,4 @@
 /home/nilton/Documentos/course/internet/dotnet-clean-arch/Core/CleanArchitecture.Domain/obj/Debug/net8.0/refint/CleanArchitecture.Domain.dll
 /home/nilton/Documentos/course/internet/dotnet-clean-arch/Core/CleanArchitecture.Domain/obj/Debug/net8.0/CleanArchitecture.Domain.pdb
 /home/nilton/Documentos/course/internet/dotnet-clean-arch/Core/CleanArchitecture.Domain/obj/Debug/net8.0/ref/CleanArchitecture.Domain.dll
+/home/nilton/Documentos/course/internet/dotnet-clean-arch/Core/CleanArchitecture.Domain/obj/Debug/net8.0/CleanArchitecture.Domain.sourcelink.json
